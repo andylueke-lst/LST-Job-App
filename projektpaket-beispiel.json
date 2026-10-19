@@ -1,0 +1,19 @@
+{
+  "kind": "lst-project",
+  "schemaVersion": 1,
+  "released": true,
+  "externalId": "test-job-001",
+  "revision": 1,
+  "title": "Testjob – Kühlturm Musterbetrieb",
+  "deliveryNumber": "TEST-001",
+  "fields": {
+    "client": "Muster-Dienstleister GmbH (Test)",
+    "siteName": "Testmarkt",
+    "location": "Musterstraße 1, Musterstadt – Testadresse",
+    "contact": "Test-Ansprechpartner",
+    "phone": "",
+    "tasks": "Testauftrag: Anlage vorbereiten, reinigen und gemeinsam prüfen.",
+    "packing": "Kompressor\nSchläuche\nWerkzeug\nSchutzausrüstung",
+    "conditions": "Wasseranschluss noch zu klären. Dies ist ein Testjob."
+  }
+}

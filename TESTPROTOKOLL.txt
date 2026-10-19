@@ -1,0 +1,42 @@
+LST Job-App 0.3.0 – Prüftag 19.10.2026
+
+BESTANDEN – lokale Google-Chrome-/Playwright-Prüfung
+- Startseite, Statusgruppen, getrennte Ansichten und Unterseiten.
+- Projekt-Testpaket und PDF-Import; Originalanlage bytegetreu lokal erhalten.
+- Erkennung der vorhandenen LST-Vorlage und Vorschlag der ersten zwei Seiten.
+- Zwei Tagesberichte mit getrennten Vorarbeiter-/Materialangaben; zusammengeführte
+  dritte Seite und eine gemeinsame Abschlussbestätigung mit Unterschrift.
+- Sehr lange mehrtägige Berichte setzen sich ohne Abschneiden auf weiteren Seiten fort.
+- Mitarbeiterzeiten mit je einer Tagesarbeitszeit pro Person/Tag und mehreren
+  getrennten Auftragsabschnitten; zwei Jobs teilen denselben Tagesdatensatz.
+- Überschneidende Auftragsabschnitte derselben Person abgewiesen.
+- Rollbare Eingabe und echte Tastaturbedienung mit Viertelstunden-Schritten.
+- Kompressorstand-Vorschlag, notwendige Bestätigung, negative Differenz abgewiesen,
+  Atlas und benannter Mietkompressor mit getrennten Ständen.
+- Tankvorgang mit Datum, Zählerstand und frei eingegebener Literzahl.
+- Vorher-/Nachher-Fotos mit Tageszuordnung, lokale Speicherung und Fotodokumentation.
+- Abschluss ohne Unterzeichner-E-Mail möglich, wenn keine Kopie gewünscht ist.
+- Büroübergabe trotzdem verfügbar; PDF und interne Jobakte als getrennte Anhänge.
+- Dateiteilen und Zwischenablage simuliert; keine echte Mail verschickt.
+- Keine Zustellbestätigung behauptet, nur App-Übergabe markiert.
+- Unterschrift bleibt beim Bildschirmgrößenwechsel erhalten.
+- Abschluss aufheben entfernt Entwurfsunterschrift und erhält frühere Archiv-PDF.
+- Offline-Neustart erhält Berichte, Fotos und alle Protokolle.
+- Dokumentations-PDF und Seitenvorschau auch ohne Netzwerk erzeugt/geöffnet.
+- Vollständige Sicherung und Wiederherstellung in einem leeren Browser.
+- Update von 0.2.0 auf 0.3.0 einschließlich Datenbank- und Offline-Cache-Wechsel:
+  Original, Bericht, Unterschrift und Archiv-PDF bleiben erhalten.
+- Fremde Offline-Caches bleiben erhalten.
+- Kein horizontaler Überlauf bei schmaler Darstellung, keine unbehandelten JS-Fehler.
+
+PDF-PRÜFUNG
+Kundenabschluss-PDF gerendert und auf Briefkopf, Datumsreihenfolge, Trennlinien,
+Abschlussbestätigung, Unterschrift und Fußzeile kontrolliert. Zwei kurze Berichte
+passen auf Seite 3; Fotodokumentation enthält zusätzliche Fotoseiten. Ausgabeseite
+enthält keine internen Mitarbeiter-/Kompressorstunden oder Tankmengen.
+
+GRENZEN
+Kein echter iPadOS-, Apple-Pencil-, Kamera- oder Apple-Mail-Test.
+Kein Produktivversand. Notion-API, zentrale Jobdatenbank, automatische Büroablage,
+Mac-mini-Installation und produktiver Zugriffsschutz sind noch nicht umgesetzt.
+Browser-Speicher ist kein garantiertes Langzeitarchiv. Sicherungen separat ablegen.

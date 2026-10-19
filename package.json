@@ -1,0 +1,13 @@
+{
+  "name": "lst-job-app",
+  "version": "0.3.0",
+  "private": true,
+  "description": "LST Job-App – offlinefähiger Testprototyp",
+  "scripts": {
+    "test": "node tests.cjs"
+  },
+  "devDependencies": {
+    "pdf-lib": "1.17.1",
+    "playwright": "1.62.1"
+  }
+}

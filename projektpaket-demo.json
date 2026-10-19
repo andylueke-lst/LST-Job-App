@@ -1,0 +1,25 @@
+{
+  "kind": "lst-project",
+  "schemaVersion": 1,
+  "released": true,
+  "externalId": "test-job-001",
+  "revision": 1,
+  "title": "Testjob – Kühlturm Musterbetrieb",
+  "deliveryNumber": "TEST-001",
+  "fields": {
+    "client": "Muster-Dienstleister GmbH (Test)",
+    "siteName": "Testmarkt",
+    "location": "Musterstraße 1, Musterstadt – Testadresse",
+    "contact": "Test-Ansprechpartner",
+    "phone": "",
+    "tasks": "Testauftrag: Anlage vorbereiten, reinigen und gemeinsam prüfen.",
+    "packing": "Kompressor\nSchläuche\nWerkzeug\nSchutzausrüstung",
+    "conditions": "Wasseranschluss noch zu klären. Dies ist ein Testjob."
+  },
+  "sourcePdf": {
+    "name": "261019 Testjob Musterbetrieb 2026 TEST-001.pdf",
+    "data": "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",
+    "originalPages": 2,
+    "renumberOriginal": true
+  }
+}

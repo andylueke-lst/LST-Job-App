@@ -1,0 +1,47 @@
+LST JOB-APP – TESTVERSION 0.3.0 – 19.10.2026
+
+Testbetrieb zunächst über das eigene Repository LST-Job-App auf GitHub Pages.
+Auf dem Mac mini wird mit diesem Paket nichts installiert.
+
+GITHUB PAGES
+1. Programmdateien vollständig im Repository bereitstellen.
+2. Settings > Pages > Deploy from a branch > main > / (root) > Save.
+3. Veröffentlichung abwarten. Die von GitHub angezeigte HTTPS-Adresse öffnen.
+4. Nur Programmdateien und fiktive Testdaten hochladen. Keine echten PDFs,
+   Backups, Fotos, Zugangsdaten oder internen Büroakten ins Repository laden.
+
+IPAD
+1. Adresse in Safari öffnen, Teilen > Zum Home-Bildschirm.
+2. App über das neue Symbol öffnen; „Offline-Programm installiert“ abwarten.
+3. „Beispieljob laden (Testdaten)“ wählen. Der Testlieferschein ist bereits dabei.
+4. Vorbereitung prüfen, Durchführung starten, ersten Bericht speichern.
+5. Zeiten, Kompressor und Fotos erfassen, weiteren Arbeitstag anlegen.
+6. Zweiten Bericht erfassen. „Abschluss vorbereiten“, beide Vorschauen prüfen.
+7. Name, Datum, Funktion und Unterschrift erfassen. „Fertig“ archiviert lokal.
+8. Büro-PDF und interne Akte bei Bedarf in Dateien sichern oder an Mail übergeben.
+   Die vorgeschlagene Büro-Adresse vor jedem Testversand prüfen. Eine Kopie für
+   den Unterzeichner ist optional; seine E-Mail ist nur dann erforderlich.
+9. Flugmodus: App schließen, neu öffnen, Job und Daten prüfen. Die Mail selbst
+   benötigt später wieder Netz. Keine bestätigte Zustellung wird behauptet.
+
+UPDATE / BESTEHENDE DATEN
+Vor dem Update eine vollständige Sicherung und die fertigen PDFs speichern.
+Gleiche Adresse behalten; Programmdateien vollständig aktualisieren, alle alten
+App-Fenster schließen und die App online neu öffnen. Version 0.3.0 muss im Fuß
+stehen. Bei einem Versionswechsel der Datenbank müssen ältere Fenster zu sein.
+Die lokale Datenbank heißt weiterhin lst-lieferschein-praxis-v01, jetzt Schema 2.
+Bestehende Entwürfe/Unterschriften/PDFs werden übernommen. Ein alter Bericht
+wird als erster Tagesbericht geführt. Website-Daten nicht löschen.
+
+DATENSICHERUNG
+Unter „Sicherung aller Jobs“ regelmäßig alle Daten als JSON sichern. Fertige
+PDFs zusätzlich einzeln speichern. Wiederherstellung am besten in einem leeren
+Browser; abweichende bestehende Datensätze werden absichtlich nicht ersetzt.
+Die Sicherung enthält Kundendaten und Unterschriften und gehört nicht auf GitHub.
+
+BEKANNTE GRENZEN
+GitHub Pages ist nur die Testbereitstellung des Programms. Die Daten liegen
+weiterhin lokal je Gerät/Browser, ohne zentrale Anmeldung oder Synchronisierung.
+Notion-API, Mac-mini-Ablage und produktiver Zugriffsschutz folgen nach dem
+Bürotermin. Für diesen Durchlauf nur Testdaten verwenden. Echter iPad-, Pencil-,
+Kamera- und Mail-Test bleibt erforderlich.
